@@ -5,13 +5,15 @@ db = db.getSiblingDB('test')
 
 var specificDate = ISODate("2014-08-11T00:00:00Z")
 
+// TODO: сомневаюсь что правильно понял условие задачи. 
 db.restaurants.aggregate([
     {
         "$project": {
             "_id": 0,
             "restaurant_id": 1,
             "name": 1,
-            "gradesOnSpecificDate": { 
+            "grades": 1,
+            "gradesObjectsOnSpecificDate": { 
                 "$filter": {
                     input: "$grades",
                     as: "grade",
@@ -21,15 +23,28 @@ db.restaurants.aggregate([
         }
     },
     {
+        "$match": {
+            "gradesObjectsOnSpecificDate.grade": "A"
+        }
+    },
+    {
         "$addFields": {
-            "totalScore": { "$sum": "$grades.score" },
-            "totalGrade": 
+            "gradesScore": { "$sum": "$gradesObjectsOnSpecificDate.score" }
         }
     },
     {
         "$match": {
-            gradesOnSpecificDate: {"$elemMatch": {grade: "A"}}
+            gradesScore: { "$gte": 11 },
+        }
+    },
+    {
+        "$project": {
+            "_id": 0,
+            restaurant_id: 1,
+            name: 1,
+            grades: 1
         }
     }
 ])
     .forEach(printjson)
+ 

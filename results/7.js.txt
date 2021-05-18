@@ -1,0 +1,166 @@
+{
+	"_id" : ObjectId("60a3b443c46aefe2df41351e"),
+	"address" : {
+		"building" : "3707",
+		"coord" : [
+			-101.8945214,
+			33.5197474
+		],
+		"street" : "82 Street",
+		"zipcode" : "11372"
+	},
+	"borough" : "Queens",
+	"cuisine" : "American ",
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1401840000000
+			},
+			"grade" : "A",
+			"score" : 12
+		},
+		{
+			"date" : {
+				"$date" : 1383782400000
+			},
+			"grade" : "B",
+			"score" : 19
+		},
+		{
+			"date" : {
+				"$date" : 1368748800000
+			},
+			"grade" : "A",
+			"score" : 11
+		},
+		{
+			"date" : {
+				"$date" : 1346198400000
+			},
+			"grade" : "A",
+			"score" : 11
+		},
+		{
+			"date" : {
+				"$date" : 1333411200000
+			},
+			"grade" : "A",
+			"score" : 12
+		},
+		{
+			"date" : {
+				"$date" : 1321401600000
+			},
+			"grade" : "A",
+			"score" : 7
+		}
+	],
+	"name" : "Burger King",
+	"restaurant_id" : "40534067"
+}
+{
+	"_id" : ObjectId("60a3b443c46aefe2df413889"),
+	"address" : {
+		"building" : "15259",
+		"coord" : [
+			-119.6368672,
+			36.2504996
+		],
+		"street" : "10 Avenue",
+		"zipcode" : "11357"
+	},
+	"borough" : "Queens",
+	"cuisine" : "Italian",
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1409788800000
+			},
+			"grade" : "A",
+			"score" : 11
+		},
+		{
+			"date" : {
+				"$date" : 1395792000000
+			},
+			"grade" : "A",
+			"score" : 8
+		},
+		{
+			"date" : {
+				"$date" : 1362355200000
+			},
+			"grade" : "A",
+			"score" : 10
+		},
+		{
+			"date" : {
+				"$date" : 1348704000000
+			},
+			"grade" : "A",
+			"score" : 10
+		},
+		{
+			"date" : {
+				"$date" : 1334880000000
+			},
+			"grade" : "A",
+			"score" : 7
+		},
+		{
+			"date" : {
+				"$date" : 1322006400000
+			},
+			"grade" : "C",
+			"score" : 34
+		}
+	],
+	"name" : "Cascarino'S",
+	"restaurant_id" : "40668681"
+}
+{
+	"_id" : ObjectId("60a3b443c46aefe2df413d2f"),
+	"address" : {
+		"building" : "60",
+		"coord" : [
+			-111.9975205,
+			42.0970258
+		],
+		"street" : "West Side Highway",
+		"zipcode" : "10006"
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "Japanese",
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1395273600000
+			},
+			"grade" : "A",
+			"score" : 9
+		},
+		{
+			"date" : {
+				"$date" : 1372377600000
+			},
+			"grade" : "A",
+			"score" : 11
+		},
+		{
+			"date" : {
+				"$date" : 1341446400000
+			},
+			"grade" : "A",
+			"score" : 13
+		},
+		{
+			"date" : {
+				"$date" : 1311724800000
+			},
+			"grade" : "A",
+			"score" : 2
+		}
+	],
+	"name" : "Sports Center At Chelsea Piers (Sushi Bar)",
+	"restaurant_id" : "40882356"
+}

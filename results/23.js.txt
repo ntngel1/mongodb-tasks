@@ -1,0 +1,56 @@
+{
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Madison Square",
+	"latitude" : -73.9860597,
+	"longitude" : 40.7431194
+}
+{
+	"borough" : "Manhattan",
+	"cuisine" : "Indian",
+	"name" : "Madras Mahal",
+	"latitude" : -73.98302199999999,
+	"longitude" : 40.742313
+}
+{
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Madame X",
+	"latitude" : -74.000002,
+	"longitude" : 40.72735
+}
+{
+	"borough" : "Manhattan",
+	"cuisine" : "French",
+	"name" : "Madison Bistro",
+	"latitude" : -73.98171959999999,
+	"longitude" : 40.7499406
+}
+{
+	"borough" : "Brooklyn",
+	"cuisine" : "African",
+	"name" : "Madiba",
+	"latitude" : -73.9717845,
+	"longitude" : 40.6897199
+}
+{
+	"borough" : "Bronx",
+	"cuisine" : "Italian",
+	"name" : "Madison'S",
+	"latitude" : -73.9040753,
+	"longitude" : 40.9069011
+}
+{
+	"borough" : "Manhattan",
+	"cuisine" : "Hotdogs",
+	"name" : "Madame Tussaud'S",
+	"latitude" : -73.9886598,
+	"longitude" : 40.7565811
+}
+{
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Mad River Bar & Grille",
+	"latitude" : -73.95623719999999,
+	"longitude" : 40.7761697
+}

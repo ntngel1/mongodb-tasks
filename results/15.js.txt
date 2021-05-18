@@ -1,0 +1,102 @@
+{
+	"borough" : "Brooklyn",
+	"cuisine" : "Hamburgers",
+	"name" : "White Castle",
+	"restaurant_id" : "40386837"
+}
+{
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Julliard & S.A.B. Cafeteria",
+	"restaurant_id" : "40393912"
+}
+{
+	"borough" : "Manhattan",
+	"cuisine" : "French",
+	"name" : "Credit Agricole-Cbi Executive Room",
+	"restaurant_id" : "40397486"
+}
+{
+	"borough" : "Bronx",
+	"cuisine" : "American ",
+	"name" : "Ambassador Diner",
+	"restaurant_id" : "40403946"
+}
+{
+	"borough" : "Manhattan",
+	"cuisine" : "Café/Coffee/Tea",
+	"name" : "Cafe Madison",
+	"restaurant_id" : "40483729"
+}
+{
+	"borough" : "Brooklyn",
+	"cuisine" : "Hamburgers",
+	"name" : "Mcdonald'S",
+	"restaurant_id" : "40524878"
+}
+{
+	"borough" : "Queens",
+	"cuisine" : "American ",
+	"name" : "Forest Park Golf Course",
+	"restaurant_id" : "40592920"
+}
+{
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Citibank Executive Conference Center",
+	"restaurant_id" : "40610155"
+}
+{
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Kenyon & Kenyon Cafeteria",
+	"restaurant_id" : "40673275"
+}
+{
+	"borough" : "Queens",
+	"cuisine" : "Pizza",
+	"name" : "Pizza Hut",
+	"restaurant_id" : "40715826"
+}
+{
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Gold Bar B",
+	"restaurant_id" : "40716961"
+}
+{
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Juniors",
+	"restaurant_id" : "40719738"
+}
+{
+	"borough" : "Brooklyn",
+	"cuisine" : "Bakery",
+	"name" : "Seven Stars Bakery",
+	"restaurant_id" : "40729118"
+}
+{
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Circle In The Square Theatre",
+	"restaurant_id" : "40761262"
+}
+{
+	"borough" : "Brooklyn",
+	"cuisine" : "American ",
+	"name" : "Concession # 120/ The Bullpen",
+	"restaurant_id" : "40839236"
+}
+{
+	"borough" : "Brooklyn",
+	"cuisine" : "American ",
+	"name" : "Stand # 210",
+	"restaurant_id" : "40839319"
+}
+{
+	"borough" : "Bronx",
+	"cuisine" : "Irish",
+	"name" : "Sheas Emerald",
+	"restaurant_id" : "40883581"
+}
