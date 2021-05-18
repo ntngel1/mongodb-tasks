@@ -10,7 +10,31 @@ db.restaurants.aggregate([
                 { cuisine: { "$ne": "American " } },
                 { borough: { "$ne": "Brooklyn" } }
             ]
-        },
+        }
+    },
+    {
+        "$addFields": {
+            gradeSigns: { 
+                "$map": {
+                    input: "$grades",
+                    as: "grade",
+                    in: "$$grade.grade"
+                }
+            }
+        }
+    },
+    {
+        "$match": {
+            gradeSigns: "A"
+        }
+    },
+    {
+        "$unset": "gradeSigns",
+    },
+    {
+        "$sort": {
+            cuisine: -1
+        }
     }
 ])
     .forEach(printjson)
