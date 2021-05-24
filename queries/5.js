@@ -2,19 +2,11 @@
 
 db = db.getSiblingDB('test')
 
-db.restaurants.aggregate([
-    {
-        "$addFields": {
-            totalScore: { "$sum": "$grades.score" }
+db.restaurants.find({
+    "grades": { 
+        "$elemMatch": { 
+            "score": { "$gt": 90 }
         }
-    },
-    {
-        "$match": {
-            totalScore: { "$gt": 90 }
-        }
-    },
-    {
-        "$unset": "totalScore"
     }
-])
+})
     .forEach(printjson)

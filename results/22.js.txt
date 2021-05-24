@@ -1,147 +1,352 @@
 {
+	"address" : {
+		"coord" : [
+			-73.98306099999999,
+			40.7441419
+		]
+	},
 	"borough" : "Manhattan",
 	"cuisine" : "American ",
-	"name" : "Desmond'S Tavern",
-	"latitude" : -73.98306099999999,
-	"longitude" : 40.7441419
+	"name" : "Desmond'S Tavern"
 }
 {
+	"address" : {
+		"coord" : [
+			-73.8221418,
+			40.7272376
+		]
+	},
 	"borough" : "Queens",
 	"cuisine" : "Jewish/Kosher",
-	"name" : "Shimons Kosher Pizza",
-	"latitude" : -73.8221418,
-	"longitude" : 40.7272376
+	"name" : "Shimons Kosher Pizza"
 }
 {
+	"address" : {
+		"coord" : [
+			-74.10465599999999,
+			40.58834
+		]
+	},
 	"borough" : "Staten Island",
 	"cuisine" : "American ",
-	"name" : "Richmond County Country Club",
-	"latitude" : -74.10465599999999,
-	"longitude" : 40.58834
+	"name" : "Richmond County Country Club"
 }
 {
+	"address" : {
+		"coord" : [
+			-73.9812843,
+			40.5947365
+		]
+	},
 	"borough" : "Brooklyn",
 	"cuisine" : "Pizza/Italian",
-	"name" : "Lb Spumoni Gardens",
-	"latitude" : -73.9812843,
-	"longitude" : 40.5947365
+	"name" : "Lb Spumoni Gardens"
 }
 {
+	"address" : {
+		"coord" : [
+			-73.951199,
+			40.7166026
+		]
+	},
 	"borough" : "Brooklyn",
 	"cuisine" : "Italian",
-	"name" : "Bamonte'S Restaurant",
-	"latitude" : -73.951199,
-	"longitude" : 40.7166026
+	"name" : "Bamonte'S Restaurant"
 }
 {
+	"address" : {
+		"coord" : [
+			-73.924072,
+			40.76108900000001
+		]
+	},
 	"borough" : "Queens",
 	"cuisine" : "Greek",
-	"name" : "Omonia Cafe",
-	"latitude" : -73.924072,
-	"longitude" : 40.76108900000001
+	"name" : "Omonia Cafe"
 }
 {
+	"address" : {
+		"coord" : [
+			-74.0023353,
+			40.7333573
+		]
+	},
 	"borough" : "Manhattan",
 	"cuisine" : "American ",
-	"name" : "Delmonico'S Kitchen",
-	"latitude" : -73.9901605,
-	"longitude" : 40.7526176
+	"name" : "Manhattan Monster"
 }
 {
-	"borough" : "Manhattan",
-	"cuisine" : "Delicatessen",
-	"name" : "Delmonico Gourmet",
-	"latitude" : -73.9707505,
-	"longitude" : 40.7635651
-}
-{
-	"borough" : "Manhattan",
-	"cuisine" : "American ",
-	"name" : "Delmonico Gourmet",
-	"latitude" : -73.9760637,
-	"longitude" : 40.7508686
-}
-{
-	"borough" : "Manhattan",
-	"cuisine" : "American ",
-	"name" : "Harmonie Club",
-	"latitude" : -73.97198209999999,
-	"longitude" : 40.764464
-}
-{
-	"borough" : "Queens",
-	"cuisine" : "Bakery",
-	"name" : "Ramona'S Bakery",
-	"latitude" : -73.79571990000001,
-	"longitude" : 40.7095637
-}
-{
-	"borough" : "Manhattan",
-	"cuisine" : "American ",
-	"name" : "Neil Simon Theatre",
-	"latitude" : -73.98463480000001,
-	"longitude" : 40.7630755
-}
-{
-	"borough" : "Brooklyn",
-	"cuisine" : "Mediterranean",
-	"name" : "Omonia Cafe",
-	"latitude" : -74.028486,
-	"longitude" : 40.630438
-}
-{
-	"borough" : "Manhattan",
-	"cuisine" : "American ",
-	"name" : "Simone Bar Cafe",
-	"latitude" : -73.9849976,
-	"longitude" : 40.7276766
-}
-{
+	"address" : {
+		"coord" : [
+			-74.001094,
+			40.729583
+		]
+	},
 	"borough" : "Manhattan",
 	"cuisine" : "Italian",
-	"name" : "Delmonicos",
-	"latitude" : -74.01032339999999,
-	"longitude" : 40.7050156
+	"name" : "Monte'S"
 }
 {
-	"borough" : "Queens",
-	"cuisine" : "American ",
-	"name" : "Cinnabon World Famous Cinnamon Rolls",
-	"latitude" : -73.8706606,
-	"longitude" : 40.7342757
-}
-{
+	"address" : {
+		"coord" : [
+			-73.9901605,
+			40.7526176
+		]
+	},
 	"borough" : "Manhattan",
 	"cuisine" : "American ",
-	"name" : "Ferris Booth Commons - Alfred Lerner Hall",
-	"latitude" : -73.9640299,
-	"longitude" : 40.807001
+	"name" : "Delmonico'S Kitchen"
 }
 {
+	"address" : {
+		"coord" : [
+			-73.9979536,
+			40.6914024
+		]
+	},
+	"borough" : "Brooklyn",
+	"cuisine" : "Bottled beverages, including water, sodas, juices, etc.",
+	"name" : "Montero Bar & Grill"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.9707505,
+			40.7635651
+		]
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "Delicatessen",
+	"name" : "Delmonico Gourmet"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.9760637,
+			40.7508686
+		]
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Delmonico Gourmet"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.9705633,
+			40.7605759
+		]
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "Italian",
+	"name" : "Montebello Restaurant"
+}
+{
+	"address" : {
+		"coord" : [
+			-74.1914658,
+			40.55274360000001
+		]
+	},
+	"borough" : "Staten Island",
+	"cuisine" : "Italian",
+	"name" : "Villa Monte Pizzeria"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.97198209999999,
+			40.764464
+		]
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Harmonie Club"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.79571990000001,
+			40.7095637
+		]
+	},
+	"borough" : "Queens",
+	"cuisine" : "Bakery",
+	"name" : "Ramona'S Bakery"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.97852100000001,
+			40.729192
+		]
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Mona'S"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.98463480000001,
+			40.7630755
+		]
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Neil Simon Theatre"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.9938361,
+			40.6091317
+		]
+	},
+	"borough" : "Brooklyn",
+	"cuisine" : "Bakery",
+	"name" : "Mondial Bakery"
+}
+{
+	"address" : {
+		"coord" : [
+			-74.028486,
+			40.630438
+		]
+	},
+	"borough" : "Brooklyn",
+	"cuisine" : "Mediterranean",
+	"name" : "Omonia Cafe"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.902048,
+			40.868898
+		]
+	},
+	"borough" : "Bronx",
+	"cuisine" : "Mexican",
+	"name" : "Montezuma Restaurant"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.9950905,
+			40.7435489
+		]
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "Japanese",
+	"name" : "Monster Sushi"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.9849976,
+			40.7276766
+		]
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Simone Bar Cafe"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.992991,
+			40.694197
+		]
+	},
+	"borough" : "Brooklyn",
+	"cuisine" : "Pizza/Italian",
+	"name" : "Monty Q'S"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.9657651,
+			40.8056669
+		]
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "French",
+	"name" : "Le Monde"
+}
+{
+	"address" : {
+		"coord" : [
+			-74.01032339999999,
+			40.7050156
+		]
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "Italian",
+	"name" : "Delmonicos"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.8706606,
+			40.7342757
+		]
+	},
+	"borough" : "Queens",
+	"cuisine" : "American ",
+	"name" : "Cinnabon World Famous Cinnamon Rolls"
+}
+{
+	"address" : {
+		"coord" : [
+			-73.9640299,
+			40.807001
+		]
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "American ",
+	"name" : "Ferris Booth Commons - Alfred Lerner Hall"
+}
+{
+	"address" : {
+		"coord" : [
+			-74.10465599999999,
+			40.58834
+		]
+	},
 	"borough" : "Staten Island",
 	"cuisine" : "American ",
-	"name" : "Richmond County Country Club - Pool Snack Bar",
-	"latitude" : -74.10465599999999,
-	"longitude" : 40.58834
+	"name" : "Richmond County Country Club - Pool Snack Bar"
 }
 {
+	"address" : {
+		"coord" : [
+			-74.1110561,
+			40.5884772
+		]
+	},
 	"borough" : "Staten Island",
 	"cuisine" : "American ",
-	"name" : "Richmond County Country Club(10Th Hole)",
-	"latitude" : -74.1110561,
-	"longitude" : 40.5884772
+	"name" : "Richmond County Country Club(10Th Hole)"
 }
 {
+	"address" : {
+		"coord" : [
+			-74.112758,
+			40.5833299
+		]
+	},
 	"borough" : "Staten Island",
 	"cuisine" : "American ",
-	"name" : "Richmond County Country Club",
-	"latitude" : -74.112758,
-	"longitude" : 40.5833299
+	"name" : "Richmond County Country Club"
 }
 {
+	"address" : {
+		"coord" : [
+			-73.9410809,
+			40.7036157
+		]
+	},
 	"borough" : "Brooklyn",
 	"cuisine" : "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-	"name" : "Ramonita'S Restaurant",
-	"latitude" : -73.9410809,
-	"longitude" : 40.7036157
+	"name" : "Ramonita'S Restaurant"
 }

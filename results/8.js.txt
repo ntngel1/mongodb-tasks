@@ -1,0 +1,314 @@
+{
+	"_id" : ObjectId("60ab8c34f60c994ebb05f1e5"),
+	"address" : {
+		"building" : "345",
+		"coord" : [
+			-73.9864626,
+			40.7266739
+		],
+		"street" : "East 6 Street",
+		"zipcode" : "10003"
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "Indian",
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1410739200000
+			},
+			"grade" : "A",
+			"score" : 5
+		},
+		{
+			"date" : {
+				"$date" : 1389657600000
+			},
+			"grade" : "A",
+			"score" : 8
+		},
+		{
+			"date" : {
+				"$date" : 1369872000000
+			},
+			"grade" : "A",
+			"score" : 12
+		},
+		{
+			"date" : {
+				"$date" : 1366761600000
+			},
+			"grade" : "P",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1349049600000
+			},
+			"grade" : "A",
+			"score" : 9
+		},
+		{
+			"date" : {
+				"$date" : 1333670400000
+			},
+			"grade" : "C",
+			"score" : 92
+		},
+		{
+			"date" : {
+				"$date" : 1320278400000
+			},
+			"grade" : "C",
+			"score" : 41
+		}
+	],
+	"name" : "Gandhi",
+	"restaurant_id" : "40381295"
+}
+{
+	"_id" : ObjectId("60ab8c34f60c994ebb05f348"),
+	"address" : {
+		"building" : "130",
+		"coord" : [
+			-73.984758,
+			40.7457939
+		],
+		"street" : "Madison Avenue",
+		"zipcode" : "10016"
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "Pizza/Italian",
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1419379200000
+			},
+			"grade" : "Z",
+			"score" : 31
+		},
+		{
+			"date" : {
+				"$date" : 1402963200000
+			},
+			"grade" : "C",
+			"score" : 98
+		},
+		{
+			"date" : {
+				"$date" : 1386806400000
+			},
+			"grade" : "C",
+			"score" : 32
+		},
+		{
+			"date" : {
+				"$date" : 1369180800000
+			},
+			"grade" : "B",
+			"score" : 21
+		},
+		{
+			"date" : {
+				"$date" : 1335916800000
+			},
+			"grade" : "A",
+			"score" : 11
+		}
+	],
+	"name" : "Bella Napoli",
+	"restaurant_id" : "40393488"
+}
+{
+	"_id" : ObjectId("60ab8c34f60c994ebb05f353"),
+	"address" : {
+		"building" : "101",
+		"coord" : [
+			-73.9243061,
+			40.8276297
+		],
+		"street" : "East 161 Street",
+		"zipcode" : "10451"
+	},
+	"borough" : "Bronx",
+	"cuisine" : "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1397088000000
+			},
+			"grade" : "A",
+			"score" : 10
+		},
+		{
+			"date" : {
+				"$date" : 1380585600000
+			},
+			"grade" : "A",
+			"score" : 6
+		},
+		{
+			"date" : {
+				"$date" : 1365638400000
+			},
+			"grade" : "B",
+			"score" : 25
+		},
+		{
+			"date" : {
+				"$date" : 1351123200000
+			},
+			"grade" : "A",
+			"score" : 12
+		},
+		{
+			"date" : {
+				"$date" : 1349827200000
+			},
+			"grade" : "P",
+			"score" : 12
+		},
+		{
+			"date" : {
+				"$date" : 1337904000000
+			},
+			"grade" : "B",
+			"score" : 14
+		},
+		{
+			"date" : {
+				"$date" : 1315958400000
+			},
+			"grade" : "B",
+			"score" : 26
+		},
+		{
+			"date" : {
+				"$date" : 1303689600000
+			},
+			"grade" : "C",
+			"score" : 76
+		}
+	],
+	"name" : "El Molino Rojo Restaurant",
+	"restaurant_id" : "40393688"
+}
+{
+	"_id" : ObjectId("60ab8c34f60c994ebb05f4a3"),
+	"address" : {
+		"building" : "289",
+		"coord" : [
+			-73.94610279999999,
+			40.7137587
+		],
+		"street" : "Manhattan Avenue",
+		"zipcode" : "11211"
+	},
+	"borough" : "Brooklyn",
+	"cuisine" : "Bakery",
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1395187200000
+			},
+			"grade" : "A",
+			"score" : 10
+		},
+		{
+			"date" : {
+				"$date" : 1381363200000
+			},
+			"grade" : "A",
+			"score" : 10
+		},
+		{
+			"date" : {
+				"$date" : 1367884800000
+			},
+			"grade" : "A",
+			"score" : 13
+		},
+		{
+			"date" : {
+				"$date" : 1347321600000
+			},
+			"grade" : "B",
+			"score" : 18
+		},
+		{
+			"date" : {
+				"$date" : 1334707200000
+			},
+			"grade" : "A",
+			"score" : 9
+		},
+		{
+			"date" : {
+				"$date" : 1317081600000
+			},
+			"grade" : "A",
+			"score" : 8
+		},
+		{
+			"date" : {
+				"$date" : 1304380800000
+			},
+			"grade" : "C",
+			"score" : 77
+		}
+	],
+	"name" : "Fortunato Bros Cafe & Bakery",
+	"restaurant_id" : "40400561"
+}
+{
+	"_id" : ObjectId("60ab8c34f60c994ebb05facd"),
+	"address" : {
+		"building" : "231",
+		"coord" : [
+			-73.9772294,
+			40.7527262
+		],
+		"street" : "Grand Central Station",
+		"zipcode" : "10017"
+	},
+	"borough" : "Manhattan",
+	"cuisine" : "Italian",
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1420588800000
+			},
+			"grade" : "Z",
+			"score" : 20
+		},
+		{
+			"date" : {
+				"$date" : 1404345600000
+			},
+			"grade" : "B",
+			"score" : 14
+		},
+		{
+			"date" : {
+				"$date" : 1387584000000
+			},
+			"grade" : "A",
+			"score" : 13
+		},
+		{
+			"date" : {
+				"$date" : 1368748800000
+			},
+			"grade" : "C",
+			"score" : 76
+		},
+		{
+			"date" : {
+				"$date" : 1334880000000
+			},
+			"grade" : "A",
+			"score" : 12
+		}
+	],
+	"name" : "Two Boots Grand Central",
+	"restaurant_id" : "40725591"
+}

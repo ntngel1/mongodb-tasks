@@ -2,12 +2,7 @@
 
 db = db.getSiblingDB('test')
 
-var countOfAddressesWithMissingStreet = 
-    db.restaurants.countDocuments({
-        "$or": [
-            { "address.street": null },
-            { "address.street": "" }
-        ]
-    })
+var count = db.restaurants.find({"address.street": { "$exists": false }})
+    .count()
 
-print("All addresses has street = " + (countOfAddressesWithMissingStreet == 0))
+print(count)

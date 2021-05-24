@@ -23570,6 +23570,40 @@
 	"grades" : [
 		{
 			"date" : {
+				"$date" : 1405900800000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1383177600000
+			},
+			"grade" : "A",
+			"score" : 0
+		},
+		{
+			"date" : {
+				"$date" : 1348444800000
+			},
+			"grade" : "A",
+			"score" : 8
+		},
+		{
+			"date" : {
+				"$date" : 1318291200000
+			},
+			"grade" : "A",
+			"score" : 0
+		}
+	],
+	"name" : "Lattanzi",
+	"restaurant_id" : "40385580"
+}
+{
+	"grades" : [
+		{
+			"date" : {
 				"$date" : 1413331200000
 			},
 			"grade" : "Z",
@@ -25321,6 +25355,33 @@
 	],
 	"name" : "Science Cafe (Queensborough  Community College)",
 	"restaurant_id" : "40386793"
+}
+{
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1415923200000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1382313600000
+			},
+			"grade" : "A",
+			"score" : 3
+		},
+		{
+			"date" : {
+				"$date" : 1352851200000
+			},
+			"grade" : "A",
+			"score" : 0
+		}
+	],
+	"name" : "White Castle",
+	"restaurant_id" : "40386837"
 }
 {
 	"grades" : [
@@ -35188,6 +35249,33 @@
 	"grades" : [
 		{
 			"date" : {
+				"$date" : 1412812800000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1379030400000
+			},
+			"grade" : "A",
+			"score" : 0
+		},
+		{
+			"date" : {
+				"$date" : 1347580800000
+			},
+			"grade" : "A",
+			"score" : 6
+		}
+	],
+	"name" : "Julliard & S.A.B. Cafeteria",
+	"restaurant_id" : "40393912"
+}
+{
+	"grades" : [
+		{
+			"date" : {
 				"$date" : 1390953600000
 			},
 			"grade" : "A",
@@ -42007,6 +42095,33 @@
 	],
 	"name" : "Le Colonial",
 	"restaurant_id" : "40397478"
+}
+{
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1410739200000
+			},
+			"grade" : "A",
+			"score" : 5
+		},
+		{
+			"date" : {
+				"$date" : 1379635200000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1348185600000
+			},
+			"grade" : "A",
+			"score" : 2
+		}
+	],
+	"name" : "Credit Agricole-Cbi Executive Room",
+	"restaurant_id" : "40397486"
 }
 {
 	"grades" : [
@@ -57397,6 +57512,40 @@
 	"grades" : [
 		{
 			"date" : {
+				"$date" : 1410220800000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1379635200000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1348099200000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1317686400000
+			},
+			"grade" : "A",
+			"score" : 2
+		}
+	],
+	"name" : "Cafe Madison",
+	"restaurant_id" : "40483729"
+}
+{
+	"grades" : [
+		{
+			"date" : {
 				"$date" : 1412985600000
 			},
 			"grade" : "A",
@@ -62105,6 +62254,26 @@
 	"grades" : [
 		{
 			"date" : {
+				"$date" : 1390435200000
+			},
+			"grade" : "A",
+			"score" : 5
+		},
+		{
+			"date" : {
+				"$date" : 1355788800000
+			},
+			"grade" : "A",
+			"score" : 2
+		}
+	],
+	"name" : "Mcdonald'S",
+	"restaurant_id" : "40524878"
+}
+{
+	"grades" : [
+		{
+			"date" : {
 				"$date" : 1402272000000
 			},
 			"grade" : "A",
@@ -62790,6 +62959,40 @@
 	],
 	"name" : "Island Burgers And Shakes",
 	"restaurant_id" : "40527001"
+}
+{
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1411344000000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1380758400000
+			},
+			"grade" : "A",
+			"score" : 0
+		},
+		{
+			"date" : {
+				"$date" : 1366761600000
+			},
+			"grade" : "A",
+			"score" : 4
+		},
+		{
+			"date" : {
+				"$date" : 1328745600000
+			},
+			"grade" : "A",
+			"score" : 4
+		}
+	],
+	"name" : "Diwan-E-Khaas",
+	"restaurant_id" : "40527369"
 }
 {
 	"grades" : [
@@ -83050,6 +83253,40 @@
 	"grades" : [
 		{
 			"date" : {
+				"$date" : 1407196800000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1375920000000
+			},
+			"grade" : "A",
+			"score" : 0
+		},
+		{
+			"date" : {
+				"$date" : 1343260800000
+			},
+			"grade" : "A",
+			"score" : 5
+		},
+		{
+			"date" : {
+				"$date" : 1333411200000
+			},
+			"grade" : "C",
+			"score" : 0
+		}
+	],
+	"name" : "Forest Park Golf Course",
+	"restaurant_id" : "40592920"
+}
+{
+	"grades" : [
+		{
+			"date" : {
 				"$date" : 1386201600000
 			},
 			"grade" : "A",
@@ -88174,6 +88411,33 @@
 	],
 	"name" : "Van Dam Diner",
 	"restaurant_id" : "40610139"
+}
+{
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1393286400000
+			},
+			"grade" : "A",
+			"score" : 0
+		},
+		{
+			"date" : {
+				"$date" : 1358121600000
+			},
+			"grade" : "A",
+			"score" : 3
+		},
+		{
+			"date" : {
+				"$date" : 1327276800000
+			},
+			"grade" : "A",
+			"score" : 2
+		}
+	],
+	"name" : "Citibank Executive Conference Center",
+	"restaurant_id" : "40610155"
 }
 {
 	"grades" : [
@@ -99070,6 +99334,40 @@
 	"grades" : [
 		{
 			"date" : {
+				"$date" : 1394755200000
+			},
+			"grade" : "A",
+			"score" : 3
+		},
+		{
+			"date" : {
+				"$date" : 1361923200000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1348185600000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1317686400000
+			},
+			"grade" : "A",
+			"score" : 0
+		}
+	],
+	"name" : "Kenyon & Kenyon Cafeteria",
+	"restaurant_id" : "40673275"
+}
+{
+	"grades" : [
+		{
+			"date" : {
 				"$date" : 1420588800000
 			},
 			"grade" : "A",
@@ -106819,6 +107117,33 @@
 	"grades" : [
 		{
 			"date" : {
+				"$date" : 1413849600000
+			},
+			"grade" : "A",
+			"score" : 3
+		},
+		{
+			"date" : {
+				"$date" : 1377648000000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1347408000000
+			},
+			"grade" : "A",
+			"score" : 4
+		}
+	],
+	"name" : "Pizza Hut",
+	"restaurant_id" : "40715826"
+}
+{
+	"grades" : [
+		{
+			"date" : {
 				"$date" : 1398297600000
 			},
 			"grade" : "A",
@@ -107394,6 +107719,26 @@
 	],
 	"name" : "Morrell Wine Bar & Cafe",
 	"restaurant_id" : "40716932"
+}
+{
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1384387200000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1300665600000
+			},
+			"grade" : "A",
+			"score" : 0
+		}
+	],
+	"name" : "Gold Bar B",
+	"restaurant_id" : "40716961"
 }
 {
 	"grades" : [
@@ -108261,6 +108606,33 @@
 	],
 	"name" : "Juniors",
 	"restaurant_id" : "40719736"
+}
+{
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1398297600000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1364256000000
+			},
+			"grade" : "A",
+			"score" : 0
+		},
+		{
+			"date" : {
+				"$date" : 1331596800000
+			},
+			"grade" : "A",
+			"score" : 5
+		}
+	],
+	"name" : "Juniors",
+	"restaurant_id" : "40719738"
 }
 {
 	"grades" : [
@@ -110874,6 +111246,33 @@
 	],
 	"name" : "Saji'S Japanese Food",
 	"restaurant_id" : "40729002"
+}
+{
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1398816000000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1366848000000
+			},
+			"grade" : "A",
+			"score" : 4
+		},
+		{
+			"date" : {
+				"$date" : 1330387200000
+			},
+			"grade" : "A",
+			"score" : 2
+		}
+	],
+	"name" : "Seven Stars Bakery",
+	"restaurant_id" : "40729118"
 }
 {
 	"grades" : [
@@ -120240,6 +120639,33 @@
 	],
 	"name" : "My Mother'S Place",
 	"restaurant_id" : "40761108"
+}
+{
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1405382400000
+			},
+			"grade" : "A",
+			"score" : 0
+		},
+		{
+			"date" : {
+				"$date" : 1374019200000
+			},
+			"grade" : "A",
+			"score" : 0
+		},
+		{
+			"date" : {
+				"$date" : 1319500800000
+			},
+			"grade" : "A",
+			"score" : 2
+		}
+	],
+	"name" : "Circle In The Square Theatre",
+	"restaurant_id" : "40761262"
 }
 {
 	"grades" : [
@@ -133480,6 +133906,33 @@
 	"grades" : [
 		{
 			"date" : {
+				"$date" : 1404000000000
+			},
+			"grade" : "A",
+			"score" : 5
+		},
+		{
+			"date" : {
+				"$date" : 1376611200000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1340236800000
+			},
+			"grade" : "A",
+			"score" : 2
+		}
+	],
+	"name" : "Concession # 120/ The Bullpen",
+	"restaurant_id" : "40839236"
+}
+{
+	"grades" : [
+		{
+			"date" : {
 				"$date" : 1402704000000
 			},
 			"grade" : "A",
@@ -133591,6 +134044,19 @@
 	],
 	"name" : "City Island Deli",
 	"restaurant_id" : "40839264"
+}
+{
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1402704000000
+			},
+			"grade" : "A",
+			"score" : 3
+		}
+	],
+	"name" : "Stand # 210",
+	"restaurant_id" : "40839319"
 }
 {
 	"grades" : [
@@ -145067,6 +145533,33 @@
 	],
 	"name" : "Toast",
 	"restaurant_id" : "40883548"
+}
+{
+	"grades" : [
+		{
+			"date" : {
+				"$date" : 1410739200000
+			},
+			"grade" : "A",
+			"score" : 7
+		},
+		{
+			"date" : {
+				"$date" : 1376006400000
+			},
+			"grade" : "A",
+			"score" : 2
+		},
+		{
+			"date" : {
+				"$date" : 1345420800000
+			},
+			"grade" : "A",
+			"score" : 0
+		}
+	],
+	"name" : "Sheas Emerald",
+	"restaurant_id" : "40883581"
 }
 {
 	"grades" : [

@@ -12,9 +12,7 @@ db.restaurants.find(
                 }
             },
             {
-                "name": {
-                    "$regex": /^Wil/
-                }
+                "name": /^Wil/
             }
         ]
     },

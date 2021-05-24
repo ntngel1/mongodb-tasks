@@ -3,38 +3,14 @@
 
 db = db.getSiblingDB('test')
 
-db.restaurants.aggregate([
-    {
-        "$match": {
-            $and: [
-                { cuisine: { "$ne": "American " } },
-                { borough: { "$ne": "Brooklyn" } }
-            ]
-        }
-    },
-    {
-        "$addFields": {
-            gradeSigns: { 
-                "$map": {
-                    input: "$grades",
-                    as: "grade",
-                    in: "$$grade.grade"
-                }
-            }
-        }
-    },
-    {
-        "$match": {
-            gradeSigns: "A"
-        }
-    },
-    {
-        "$unset": "gradeSigns",
-    },
-    {
-        "$sort": {
-            cuisine: -1
+db.restaurants.find({
+    "cuisine": { "$ne": "American " },
+    "borough": { "$ne": "Brooklyn" },
+    "grades": { 
+        "$elemMatch": {
+            "grade": "A"
         }
     }
-])
+})
+    .sort({ "cuisine": -1 })
     .forEach(printjson)
